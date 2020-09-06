@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Employee Management App</string>
+    <string name="employee_nmanagement_app">Employee\nManagement App</string>
+    <string name="crud_app_using_sql">CRUD APP USING SQLite Database</string>
+    <string name="todo">TODO</string>
+    <string name="create_a_new_entry">Create a New Entry</string>
+    <string name="enter_id_here">Enter ID here</string>
+    <string name="enter_name_here">Enter Name here</string>
+    <string name="enter_salary_here">Enter Salary here</string>
+    <string name="create_entry">Create Entry</string>
+    <string name="clear_entry">Clear Entry</string>
+    <string name="update_an_entry">Update an Entry</string>
+    <string name="update_entry">Update Entry</string>
+    <string name="delete_an_entry">Delete an Entry</string>
+    <string name="delete_entry">Delete Entry</string>
+    <string name="note_entry_is_updated_based_nupon_the_id_number">Note: Entry is updated based upon the ID number.</string>
+    <string name="go_back">Go Back</string>
+    <string name="read_employee_data">Read Employee Data</string>
+    <string name="developer_ncontact">Developer\nContact</string>
+    <string-array name="create_spinner">
+        <item>Choose Department</item>
+        <item>IT</item>
+        <item>Sales</item>
+        <item>R and D</item>
+        <item>Marketing</item>
+    </string-array>
+</resources>
